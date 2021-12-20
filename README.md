@@ -9,7 +9,7 @@
 
 ## 🔗 Liens
 
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:bricel67@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bricel67@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:bricel67@gmail.com)](mailto:bricel67@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brice-libert-81688a125)
 
 ## 🛠Skills
