@@ -1,7 +1,7 @@
 #Salut je suis Brice!👋
 
 📍 Haut-Rhin (Alsace)
-💻 Préférence pour le Front End, Connaissance en ReactJs
+💻 Développeur FullStack
 
 🎒 | Je continue de me perfectionner en Javascript, css, et avec ReactJs.
 
